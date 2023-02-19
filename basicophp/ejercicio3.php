@@ -26,7 +26,7 @@ if(isset($_POST["validar"])) {
 }
 echo "<br>";
 ?>
-<a href="ejercicio3.php"><button id="atr">Limpiar</button></a>
+<a href=""><button id="atr">Limpiar</button></a>
 
 
 
