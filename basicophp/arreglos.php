@@ -17,5 +17,5 @@ $frutas = array("Pera", "Mazana", "Mandarina","naranja");
 
 echo "La fruta en la posición 2 es: " . $frutas[2];
 
-
+echo "Este es una prueba";
 
