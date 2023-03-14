@@ -97,6 +97,4 @@ if (!empty($_POST['enviar'])) {
 
 echo opera($operacion,$num1,$num2);
 
-
-
  ?>
