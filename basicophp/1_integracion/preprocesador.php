@@ -11,7 +11,7 @@
 
     <?php
 
-echo "Ahora esto se está imprimiendo desde PHP";
+        echo "<h2>Ahora esto se está imprimiendo desde PHP</h2>";
 
      ?>
 
